@@ -1,2 +1,2 @@
 # blue-bike
-[blue bike](https://vimeo.com/123226059)
+watch [this video](https://vimeo.com/123226059) to see how this project works!
